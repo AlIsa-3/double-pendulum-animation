@@ -10,7 +10,7 @@ This creates a gif of the solution to the motion of a double pendulum
 
 ## Usage Example
 
-Run from the command-line
+Run from the command-line <br>
 Supply the following arguments:
 
 - Initial $${\theta_1}$$ : The starting angle for the top pendulum
