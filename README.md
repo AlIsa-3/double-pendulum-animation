@@ -27,6 +27,8 @@ Supply the following arguments:
 - Length of top pendulum
 - Length of bottom pendulum
 
+Example:
+
 ```$python3 double-pendulum-simulation-ORIGINAL.py 10 5 1 3 15 5 10 6 10```
 
 ## Requirements
