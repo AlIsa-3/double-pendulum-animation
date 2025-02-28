@@ -10,7 +10,7 @@ This creates a gif of the solution to the motion of a double pendulum
 
 ## Usage Example
 
-Run from the command-line
+Run from the command-line <br>
 Supply the following arguments:
 
 - Initial $${\theta_1}$$ : The starting angle for the top pendulum
@@ -26,6 +26,8 @@ Supply the following arguments:
 
 - Length of top pendulum
 - Length of bottom pendulum
+
+Example:
 
 ```$python3 double-pendulum-simulation-ORIGINAL.py 10 5 1 3 15 5 10 6 10```
 
